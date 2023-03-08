@@ -77,7 +77,7 @@ const Book = styled.a`
   text-decoration: none;
   transition: 0.5s ease;
   &:hover {
-    border-bottom: 1px solid gold;
+    border-bottom: 1px solid #dcca87;
   }
 `;
 const Line = styled.div`
