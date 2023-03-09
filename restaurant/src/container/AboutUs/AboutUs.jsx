@@ -17,6 +17,11 @@ const Container = styled.div`
   background: var(--color-black);
   @media screen and (max-width: 900px) {
     flex-direction: column;
+    width: 100%;
+    align-items: center;
+    position: relative;
+    padding-bottom: 15rem;
+    padding-top: 0;
   }
 `;
 const Left = styled.div`
