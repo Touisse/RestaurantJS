@@ -68,3 +68,10 @@ Contributions to the Responsive Restaurant App are welcome. If you find a bug or
 ## License
 
 The Responsive Restaurant App is licensed under the MIT License. See the `LICENSE` file for more information.
+
+## Interfaces 
+<img width="2133" alt="Screen Shot 2023-03-08 at 8 17 52 PM" src="https://user-images.githubusercontent.com/63207127/224084743-6dfad53f-8a8d-41b7-8a6a-7df24193039e.png">
+<img width="2059" alt="Screen Shot 2023-03-09 at 5 11 49 PM" src="https://user-images.githubusercontent.com/63207127/224084784-b745928b-5e9a-4820-a794-1dd316ffbe9d.png">
+<img width="2136" alt="Screen Shot 2023-03-09 at 5 12 02 PM" src="https://user-images.githubusercontent.com/63207127/224084787-1d9745a4-5788-4154-a2dd-fb192ab62473.png">
+<img width="2120" alt="Screen Shot 2023-03-09 at 5 12 17 PM" src="https://user-images.githubusercontent.com/63207127/224084793-37ea47df-edb7-4d2f-9c30-8f22343d105a.png">
+<img width="2113" alt="Screen Shot 2023-03-09 at 5 12 39 PM" src="https://user-images.githubusercontent.com/63207127/224084802-ff899639-8e33-4177-8f0a-838fa3343975.png">
